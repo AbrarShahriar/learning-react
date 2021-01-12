@@ -7,7 +7,7 @@ const ChildComponent = (props) => {
 
 	return (
 		<div>
-		  <button onClick={() => props.greetHandler("child")}>Greet Parent</button>
+		  <button onClick={() => props.greetHandler("child")}>Greet Parent Right Now</button>
 		</div>
 		)
 }
