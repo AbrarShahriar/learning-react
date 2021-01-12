@@ -1,0 +1,840 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"library\tabc"
+			],
+			[
+				"cons",
+				"console\tabc"
+			],
+			[
+				"Mo",
+				"MouseContainer\tabc"
+			],
+			[
+				"Hook",
+				"HookMouse\tabc"
+			],
+			[
+				"add",
+				"addEventListener\tfunction"
+			],
+			[
+				"use",
+				"useEffect\tuseEffect"
+			],
+			[
+				"us",
+				"useState\tuseState"
+			],
+			[
+				"ite",
+				"item\tabc"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"Hoo",
+				"HookCounterTwo\tabc"
+			],
+			[
+				"Hooks",
+				"HookCounterTwo.js"
+			],
+			[
+				"HookCou",
+				"HookCounter\t(HookCounter.js)"
+			],
+			[
+				"sub",
+				"submitHandler\tabc"
+			],
+			[
+				"tit",
+				"title\tabc"
+			],
+			[
+				"POs",
+				"PostForm\talias"
+			],
+			[
+				"POst",
+				"PostForm\t(PostForm.js)"
+			],
+			[
+				"err",
+				"errMsg\tabc"
+			],
+			[
+				"context",
+				"contextType\tabc"
+			],
+			[
+				"USer",
+				"UserContext\tabc"
+			],
+			[
+				"Uer",
+				"UserContext\t(userContext.js)"
+			],
+			[
+				"User",
+				"UserConsumer\tabc"
+			],
+			[
+				"UserCo",
+				"UserConsumer\t(userContext.js)"
+			],
+			[
+				"Us",
+				"UserProvider\tabc"
+			],
+			[
+				"com",
+				"ComponentE\tscript"
+			],
+			[
+				"Compo",
+				"ComponentE\tabc"
+			],
+			[
+				"CounterT",
+				"CounterTwo\tabc"
+			],
+			[
+				"prop",
+				"props\tcomponentProps"
+			],
+			[
+				"CLick",
+				"ClickCounterTwo\talias"
+			],
+			[
+				"Co",
+				"CounterTwo\tscript"
+			],
+			[
+				"compo",
+				"components/"
+			],
+			[
+				"Hov",
+				"HoverCounterTwo\tscript"
+			],
+			[
+				"HoverCo",
+				"HoverCounterTwo\tabc"
+			],
+			[
+				"Hv",
+				"HoverCounterTwo\t(HoverCounterTwo.js)"
+			],
+			[
+				"impot",
+				"import\tabc"
+			],
+			[
+				"Click",
+				"ClickCounterTwo\t(ClickCounterTwo.js)"
+			],
+			[
+				"with",
+				"withCounter\tabc"
+			],
+			[
+				"na",
+				"name\t(withCounter.js)"
+			],
+			[
+				"expo",
+				"export\tkeyword"
+			],
+			[
+				"new",
+				"NewComponent\tclass"
+			],
+			[
+				"im",
+				"imrmp\timport React, { memo } & PropTypes"
+			],
+			[
+				"Ho",
+				"HoverCounter\tsource_modules"
+			],
+			[
+				"Hover",
+				"HoverCounter\t(HoverCounter.js)"
+			],
+			[
+				"in",
+				"info\tparameter"
+			],
+			[
+				"error",
+				"ErrorBoundary\talias"
+			],
+			[
+				"fa",
+				"false\tkeyword"
+			],
+			[
+				"stt",
+				"static\tkeyword"
+			],
+			[
+				"errr",
+				"ErrorHandle"
+			],
+			[
+				"Reac",
+				"ReactDOM\talias"
+			],
+			[
+				"import",
+				"import\tkeyword"
+			],
+			[
+				"Fr",
+				"FRinput\tscript"
+			],
+			[
+				"i",
+				"inputRef\tproperty"
+			],
+			[
+				"Pure",
+				"PureComponent"
+			],
+			[
+				"set",
+				"State"
+			],
+			[
+				"get",
+				"getSnapshotBeforeUpdate"
+			],
+			[
+				"Life",
+				"LifecycleB"
+			],
+			[
+				"gert",
+				"getDerivedStateFromProps"
+			],
+			[
+				"stat",
+				"static\tkeyword"
+			],
+			[
+				"l",
+				"LifecycleA\tscript"
+			],
+			[
+				"su",
+				"submitForm\twarning"
+			],
+			[
+				"han",
+				"handleTopicChange\twarning"
+			],
+			[
+				"class",
+				"className\twarning"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"p",
+				"primary"
+			],
+			[
+				"s",
+				"Stylesheet"
+			],
+			[
+				"stty",
+				"Stylesheet\talias"
+			],
+			[
+				"name",
+				"nameList\tconst"
+			],
+			[
+				"me",
+				"message\tlet"
+			],
+			[
+				"porp",
+				"props\tparameter"
+			],
+			[
+				"gre",
+				"greetParent\tmethod"
+			],
+			[
+				"imp",
+				"import\tkeyword"
+			],
+			[
+				"pare",
+				"parentName"
+			],
+			[
+				"Pa",
+				"ParentComponent\talias"
+			],
+			[
+				"cl",
+				"clickHandler\tmethod"
+			],
+			[
+				"ca",
+				"change"
+			],
+			[
+				"func",
+				"fucntion"
+			],
+			[
+				"Event",
+				"EventBind\talias"
+			],
+			[
+				"Func",
+				"FunctionClick\tconst"
+			],
+			[
+				"pr",
+				"props"
+			],
+			[
+				"por",
+				"property"
+			],
+			[
+				"ret",
+				"return\tkeyword"
+			],
+			[
+				"pro",
+				"props\tparameter"
+			],
+			[
+				"prp",
+				"props\tparameter"
+			],
+			[
+				"con",
+				"console\tvar"
+			],
+			[
+				"ex",
+				"export\tkeyword"
+			],
+			[
+				"hid",
+				"hidden_gradient"
+			],
+			[
+				"hidd",
+				"hidden_errors"
+			],
+			[
+				"tr",
+				"training_data"
+			],
+			[
+				"bias_",
+				"bias_h"
+			],
+			[
+				"we",
+				"weights_ih_deltas"
+			],
+			[
+				"h",
+				"hidden_gradient"
+			],
+			[
+				"hi",
+				"hidden_gradient"
+			],
+			[
+				"g",
+				"gradients"
+			],
+			[
+				"out",
+				"output_errors"
+			],
+			[
+				"w",
+				"who_t"
+			],
+			[
+				"ou",
+				"outputs"
+			],
+			[
+				"o",
+				"outputs"
+			],
+			[
+				"t",
+				"toArray"
+			],
+			[
+				"re",
+				"results"
+			],
+			[
+				"outp",
+				"outputs"
+			],
+			[
+				"ba",
+				"bias_o"
+			],
+			[
+				"b",
+				"bias_o"
+			],
+			[
+				"a",
+				"arr"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"rs",
+				"results"
+			],
+			[
+				"trian",
+				"trainingIndex"
+			],
+			[
+				"wi",
+				"weights"
+			],
+			[
+				"stroke",
+				"strokeWeight"
+			],
+			[
+				"poi",
+				"points"
+			],
+			[
+				"tra",
+				"trainingIndex"
+			],
+			[
+				"wei",
+				"weights"
+			],
+			[
+				"po",
+				"points"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"ge",
+				"guess"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"term",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"panel",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"Terminus: Open Default Shell in Panel",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"Terminus: Open Default Shell in Tab",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Import Helper: Insert import"
+			],
+			[
+				"imp",
+				"Import Helper: Insert import"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ra",
+				"Random:Text"
+			],
+			[
+				"ma",
+				"Material Theme: Configuration"
+			],
+			[
+				"snipp",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"rcc",
+				"ReactIDE: Switch between component and stylesheet"
+			],
+			[
+				"m",
+				"Material Theme: Configuration"
+			],
+			[
+				"code",
+				"Code Folding: Unfold All"
+			],
+			[
+				"mater",
+				"Material Theme: Activate theme"
+			],
+			[
+				"instaa",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"",
+				"Arithmetic"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 192.0,
+		"history":
+		[
+			"npm -v"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/react/learning-react",
+		"/D/react/learning-react/public",
+		"/D/react/learning-react/src",
+		"/D/react/learning-react/src/components"
+	],
+	"file_history":
+	[
+		"/D/Github/README.md",
+		"/D/Github/.git/COMMIT_EDITMSG",
+		"/C/Users/DELL/Desktop/README.md",
+		"/D/react/learning-react/src/App.js",
+		"/D/react/learning-react/src/components/ContextA.js",
+		"/D/react/learning-react/src/components/MouseContainer.js",
+		"/D/react/learning-react/src/components/HookMouse.js",
+		"/D/react/learning-react/src/components/EffectCounter.js",
+		"/D/react/learning-react/src/components/HookCounter.js",
+		"/D/react/learning-react/src/components/HookCounterFour.js",
+		"/D/react/learning-react/src/components/HookCounterThree.js",
+		"/D/react/learning-react/src/components/HookCounterTwo.js",
+		"/D/react/learning-react/src/components/PostForm.js",
+		"/D/react/learning-react/src/components/PostList.js",
+		"/D/react/learning-react/src/components/userContext.js",
+		"/D/react/learning-react/src/components/ComponentC.js",
+		"/D/react/learning-react/src/components/ComponentE.js",
+		"/D/react/learning-react/src/components/ComponentD.js",
+		"/D/react/learning-react/src/components/CounterTwo.js",
+		"/D/react/learning-react/src/components/HoverCounterTwo.js",
+		"/D/react/learning-react/src/components/ClickCounterTwo.js",
+		"/D/react/learning-react/src/components/User.js",
+		"/D/react/learning-react/src/components/withCounter.js",
+		"/D/react/learning-react/src/components/HoverCounter.js",
+		"/D/react/learning-react/src/components/ClickCounter.js",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/D/react/learning-react/src/components/LifecycleA.js",
+		"/D/react/learning-react/src/components/0_snippet.txt",
+		"/D/react/learning-react/src/components/tetst.js",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text 3/Packages/User/rfce.sublime-snippet",
+		"/D/react/learning-react/src/components/h.js",
+		"/D/react/learning-react/src/components/Greet.js",
+		"/D/react/learning-react/src/components/Error.js",
+		"/D/react/learning-react/src/components/ErrorBoundary.js",
+		"/D/react/learning-react/src/components/PortalDemo.js",
+		"/D/react/learning-react/src/components/FRinput.js",
+		"/D/react/learning-react/src/components/FRParentInput.js",
+		"/D/react/learning-react/public/index.html",
+		"/D/react/learning-react/src/components/RefsDemo.js",
+		"/D/react/learning-react/src/components/EventBind.js",
+		"/D/react/learning-react/src/components/PureComp.js",
+		"/D/react/learning-react/src/components/MemoComp.js",
+		"/D/react/learning-react/src/components/ParentComp.js",
+		"/D/react/learning-react/src/components/RegComp.js",
+		"/D/react/learning-react/src/components/FragmentDemo.js",
+		"/D/react/learning-react/src/components/Table.js",
+		"/D/react/learning-react/src/components/Column.js",
+		"/D/react/learning-react/src/components/LifecycleB.js",
+		"/D/react/learning-react/src/components/0_snippet.js",
+		"/D/react/learning-react/src/components/Form.js",
+		"/D/react/learning-react/src/components/Stylesheet.js",
+		"/D/react/learning-react/src/components/Stylesheet.module.css",
+		"/D/react/learning-react/src/components/Stylesheet.css",
+		"/D/react/learning-react/src/components/NameList.js",
+		"/D/react/learning-react/src/components/UserGreeting.js",
+		"/D/react/learning-react/src/components/ParentComponent.js",
+		"/D/react/learning-react/src/components/ChildComponent.js",
+		"/D/react/learning-react/src/components/Counter.js",
+		"/D/react/learning-react/src/components/FunctionClick.js",
+		"/D/react/learning-react/node_modules/@istanbuljs/load-nyc-config/README.md",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text 3/Packages/User/TypeScriptReact.sublime-settings",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/react/learning-react/src/components/Welcome.js",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text 3/Packages/sublime-react-ide/ReactIDE.sublime-settings",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text 3/Packages/Babel Snippets/README.md",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text 3/Packages/User/ReactIDE.sublime-settings",
+		"/C/Users/DELL/Desktop/FiraCode_1.204/fira_code.css",
+		"/D/Programming/libs/p5/natureofcode/neural_network/multilayer_perceptron/NN.js",
+		"/D/Programming/libs/p5/natureofcode/neural_network/multilayer_perceptron/sketch.js",
+		"/D/Programming/libs/p5/natureofcode/neural_network/multilayer_perceptron/index.html",
+		"/D/Programming/libs/p5/natureofcode/neural_network/perceptron/index.html",
+		"/D/Programming/libs/p5/natureofcode/neural_network/perceptron/Perceptron.js",
+		"/D/Programming/libs/p5/natureofcode/neural_network/perceptron/sketch.js",
+		"/D/Programming/libs/p5/natureofcode/neural_network/sketch.js",
+		"/D/WEB_DEVELOPMENT/libs/ml5/pose_net/sketch.js",
+		"/D/WEB_DEVELOPMENT/libs/ml5/pose_net/index.html",
+		"/D/WEB_DEVELOPMENT/libs/p5/coding_challenge/camera_access/sketch.js",
+		"/D/WEB_DEVELOPMENT/libs/p5/coding_challenge/camera_access/index.html",
+		"/D/WEB_DEVELOPMENT/libs/p5/coding_challenge/pixel_array/sketch.js",
+		"/D/WEB_DEVELOPMENT/libs/ml5/neuralnetwork_image/sketch.js",
+		"/C/Users/DELL/Documents/iMacros/Macros/Miggster/miggster.js",
+		"/D/WEB_DEVELOPMENT/my_lib/domsole/lib/domsole.css",
+		"/D/WEB_DEVELOPMENT/my_lib/domsole/lib/domsole.js",
+		"/D/WEB_DEVELOPMENT/my_lib/domsole/test.html",
+		"/C/xampp/htdocs/code-hunters/messages.html",
+		"/D/htdocs/social_network/login.php",
+		"/D/htdocs/social_network/logout.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"person",
+			"className",
+			"RegComp",
+			"lifecycleA",
+			"parentcomponent",
+			"namelist",
+			"FunctionClick",
+			"Message",
+			"FunctionClick",
+			"Message",
+			"Counter"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ParentComp",
+			"LifecycleB",
+			"Form",
+			"Stylesheet",
+			"NameList",
+			"UserGreeting",
+			"ChildComponent",
+			"ParentComponent",
+			"EventBind"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 80.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 174.0
+	},
+	"output.Terminus":
+	{
+		"height": 186.0
+	},
+	"output.Terminus 2":
+	{
+		"height": 186.0
+	},
+	"output.Terminus 3":
+	{
+		"height": 186.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 210.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "import.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
